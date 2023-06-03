@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JARVIS2612
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning CSE-AI 
-- I KNOW JAVA LANGUAGE
+- ✨ I know JAVA language
 - 💞️ I’m looking to collaborate on SOFTWARES 
 
 <!---
